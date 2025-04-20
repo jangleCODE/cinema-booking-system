@@ -26,7 +26,7 @@ The system is designed using two main classes:
 # ▶️ How to Run the Application
 ```bash
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/gic_app.git
+git clone https://github.com/jangleCODE/cinema-booking-system.git
 cd gic_app
 
 ### 2. Set Up the Virtual Environment
